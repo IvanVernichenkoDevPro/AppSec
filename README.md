@@ -1,5 +1,13 @@
 # AppSec, DevSecOps
 
+## Threat modelling:
+- OWASP Threat Dragon https://github.com/OWASP/threat-dragon 
+- Drawio-threat-modelling https://github.com/michenriksen/drawio-threatmodeling
+- PyTM https://github.com/izar/pytm
+- Threagile https://github.com/Threagile/threagile, https://christian-schneider.net/slides/DEF-CON-2020-Threagile.pdf
+- IriusRisk CE https://github.com/iriusrisk/Community
+- SecurityCompass https://www.securitycompass.com/sdelements/threat-modeling/
+
 ## Infrastructure scans and review for misconfigurations:
 
 ### IaC:
