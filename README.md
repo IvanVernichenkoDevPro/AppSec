@@ -28,3 +28,15 @@
 - Synopsys Black Buck https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html
 - Snyk SCA https://github.com/snyk/cli
 - Veracode SCA https://www.veracode.com/products/software-composition-analysis
+
+## SAST:
+- Semgrep https://semgrep.dev/
+- Checkmarx https://checkmarx.com/product/cxsast-source-code-scanning/
+- SonarQube https://www.sonarqube.org/features/security/
+- Synopsys Coverity https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html
+- Microfocus Fortify https://www.microfocus.com/en-us/cyberres/application-security/static-code-analyzer
+- Veracode SAST https://www.veracode.com/products/binary-static-analysis-sast
+- Snyk Code https://snyk.io/product/snyk-code/
+
+## DAST:
+
