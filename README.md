@@ -7,7 +7,8 @@
 - TerraScan https://github.com/tenable/terrascan
 - Checkov https://www.checkov.io/
 - Tfsec https://github.com/aquasecurity/tfsec
-- Snyk, Sempgrep, Synopsys - commercial SASTs with IaC support 
+- Semgrep (rules for IaC) https://semgrep.dev/
+- Snyk, Synopsys, other commercial SASTs with IaC support 
 
 ### Cloud:
 - AWS Security Hub Standarts
