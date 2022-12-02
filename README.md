@@ -20,8 +20,9 @@
 
 ### Cloud:
 - AWS Security Hub Standarts
-- CloudSuite https://github.com/nccgroup/ScoutSuite
+- ScounSuite https://github.com/nccgroup/ScoutSuite
 - Cloudsploit https://github.com/aquasecurity/cloudsploit
+- Cloud Custodian https://github.com/cloud-custodian/cloud-custodian/
 - Commercial CSPM tools
 
 ### GitHub:
