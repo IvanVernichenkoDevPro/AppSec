@@ -37,6 +37,12 @@
 - Snyk SCA https://github.com/snyk/cli
 - Veracode SCA https://www.veracode.com/products/software-composition-analysis
 
+## Secrets scanners:
+- gitLeaks: https://github.com/zricethezav/gitleaks
+- TruffleHog: https://github.com/trufflesecurity/trufflehog
+- git-secrets: https://github.com/awslabs/git-secrets
+- repo-supervisor: https://github.com/auth0/repo-supervisor
+
 ## SAST:
 - Semgrep https://semgrep.dev/
 - CodeQL https://codeql.github.com/
@@ -56,6 +62,9 @@
 - Rapid7 InsightAppSec https://www.rapid7.com/products/insightappsec/
 - Teenable https://www.tenable.com/products/tenable-io/web-application-scanning
 - Veracode DAST https://www.veracode.com/products/dynamic-analysis-dast
+
+## Mobile security:
+- TBC
 
 ## Kubernetes security (good list: https://github.com/magnologan/awesome-k8s-security):
 
