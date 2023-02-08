@@ -36,6 +36,7 @@
 - Synopsys Black Buck https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html
 - Snyk SCA https://github.com/snyk/cli
 - Veracode SCA https://www.veracode.com/products/software-composition-analysis
+- Google's OSV-scanner https://github.com/google/osv-scanner
 
 ## Secrets scanners:
 - gitLeaks: https://github.com/zricethezav/gitleaks
@@ -64,7 +65,8 @@
 - Veracode DAST https://www.veracode.com/products/dynamic-analysis-dast
 
 ## Mobile security:
-- TBC
+- MobSF https://github.com/MobSF/Mobile-Security-Framework-MobSF
+- frida https://frida.re/docs/home/
 
 ## Kubernetes security (good list: https://github.com/magnologan/awesome-k8s-security):
 
@@ -77,6 +79,7 @@
 - Kube-hunter https://github.com/aquasecurity/kube-hunter
 - KubiScan https://github.com/cyberark/KubiScan
 - Kubeaudit https://github.com/Shopify/kubeaudit
+- kubescape https://github.com/kubescape/kubescape
 
 ### Auditing:
 - Falco https://github.com/falcosecurity/falco
