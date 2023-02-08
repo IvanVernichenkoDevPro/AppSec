@@ -61,7 +61,7 @@
 - Burp https://portswigger.net/burp/enterprise
 - Detectify https://detectify.com/
 - Rapid7 InsightAppSec https://www.rapid7.com/products/insightappsec/
-- Teenable https://www.tenable.com/products/tenable-io/web-application-scanning
+- Tenable https://www.tenable.com/products/tenable-io/web-application-scanning
 - Veracode DAST https://www.veracode.com/products/dynamic-analysis-dast
 
 ## Mobile security:
