@@ -67,6 +67,8 @@
 ## Mobile security:
 - MobSF https://github.com/MobSF/Mobile-Security-Framework-MobSF
 - frida https://frida.re/docs/home/
+- appmon https://github.com/dpnishant/appmon
+- qark, drozer (abandoned) https://github.com/linkedin/qark, https://github.com/WithSecureLabs/drozer
 
 ## Kubernetes security (good list: https://github.com/magnologan/awesome-k8s-security):
 
