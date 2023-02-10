@@ -60,7 +60,9 @@
 - Fuzzers: ffuf https://github.com/ffuf/ffuf
 - Burp https://portswigger.net/burp/enterprise
 - Detectify https://detectify.com/
+- Acunetix https://www.acunetix.com/product/
 - Rapid7 InsightAppSec https://www.rapid7.com/products/insightappsec/
+- Qualys WAS (+Community Edition) https://www.qualys.com/apps/web-app-scanning/
 - Tenable https://www.tenable.com/products/tenable-io/web-application-scanning
 - Veracode DAST https://www.veracode.com/products/dynamic-analysis-dast
 
