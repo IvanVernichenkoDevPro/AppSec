@@ -1,4 +1,4 @@
-# AppSec, DevSecOps
+# Fancy AppSec, DevSecOps tools list
 
 ## Threat modelling:
 - OWASP Threat Dragon https://github.com/OWASP/threat-dragon 
