@@ -12,3 +12,4 @@ window.addEventListener("load", (event) => {
 		}
 	);
 });
+console.log("Seems we have started...");
