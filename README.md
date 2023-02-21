@@ -43,6 +43,7 @@
 - TruffleHog: https://github.com/trufflesecurity/trufflehog
 - git-secrets: https://github.com/awslabs/git-secrets
 - repo-supervisor: https://github.com/auth0/repo-supervisor
+- regex patterns collection: https://github.com/mazen160/secrets-patterns-db
 
 ## SAST:
 - Semgrep https://semgrep.dev/
@@ -58,7 +59,7 @@
 - OWASP ZAP https://github.com/zaproxy/zaproxy
 - Nuclei https://github.com/projectdiscovery/nuclei
 - Fuzzers: ffuf https://github.com/ffuf/ffuf
-- Burp https://portswigger.net/burp/enterprise
+- Burp https://portswigger.net/burp/enterprise (BSCP exam study: https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
 - Detectify https://detectify.com/
 - Acunetix https://www.acunetix.com/product/
 - Rapid7 InsightAppSec https://www.rapid7.com/products/insightappsec/
