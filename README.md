@@ -102,3 +102,7 @@
 - OPA https://www.openpolicyagent.org/
 - Gatekeeper https://github.com/open-policy-agent/gatekeeper
 - Kyverno https://kyverno.io/
+
+## Pentest reporting
+- https://github.com/Syslifters/sysreptor
+- https://github.com/1modm/petereport
