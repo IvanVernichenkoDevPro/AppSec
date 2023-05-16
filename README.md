@@ -59,6 +59,7 @@
 - OWASP ZAP https://github.com/zaproxy/zaproxy
 - Nuclei https://github.com/projectdiscovery/nuclei
 - Fuzzers: ffuf https://github.com/ffuf/ffuf
+- API scanner/fuzzer: restler https://github.com/microsoft/restler-fuzzer
 - Burp https://portswigger.net/burp/enterprise (BSCP exam study: https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
 - Detectify https://detectify.com/
 - Acunetix https://www.acunetix.com/product/
