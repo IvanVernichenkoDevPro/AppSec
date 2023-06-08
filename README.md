@@ -108,3 +108,6 @@
 ## Pentest reporting
 - https://github.com/Syslifters/sysreptor
 - https://github.com/1modm/petereport
+
+## Misc
+- How to register and publish CVE: https://infosecwriteups.com/how-to-register-and-publish-a-cve-for-your-awesome-vulnerability-e68a6a5f748f
