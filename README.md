@@ -90,8 +90,9 @@
 
 ### Auditing:
 - Falco https://github.com/falcosecurity/falco
+- Tetragon https://github.com/cilium/tetragon
 
-### Workload/container security
+### Images vulnerability scanners
 - Trivy https://github.com/aquasecurity/trivy
 - Clair https://github.com/quay/clair
 
