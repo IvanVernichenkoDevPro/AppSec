@@ -62,6 +62,7 @@
 - API scanner/fuzzer: restler https://github.com/microsoft/restler-fuzzer
 - Burp https://portswigger.net/burp/enterprise (BSCP exam study: https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
 - DOMDig - SPA crawler + XSS scanner: https://github.com/fcavallarin/domdig (+burp plugin https://github.com/fcavallarin/burp-dom-scanner)
+- Katana project (SPA crawler): https://github.com/projectdiscovery/katana
 - Detectify https://detectify.com/
 - Acunetix https://www.acunetix.com/product/
 - Rapid7 InsightAppSec https://www.rapid7.com/products/insightappsec/
