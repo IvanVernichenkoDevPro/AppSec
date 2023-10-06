@@ -59,6 +59,7 @@
 - OWASP ZAP https://github.com/zaproxy/zaproxy
 - Nuclei https://github.com/projectdiscovery/nuclei
 - Fuzzers: ffuf https://github.com/ffuf/ffuf
+- API fuzzer framework: schemathesis https://github.com/schemathesis/schemathesis
 - API scanner/fuzzer: restler https://github.com/microsoft/restler-fuzzer
 - Burp https://portswigger.net/burp/enterprise (BSCP exam study: https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
 - DOMDig - SPA crawler + XSS scanner: https://github.com/fcavallarin/domdig (+burp plugin https://github.com/fcavallarin/burp-dom-scanner)
