@@ -112,5 +112,8 @@
 - https://github.com/Syslifters/sysreptor
 - https://github.com/1modm/petereport
 
+## Offensive sectools
+- Mythic C2 https://github.com/its-a-feature/Mythic
+
 ## Misc
 - How to register and publish CVE: https://infosecwriteups.com/how-to-register-and-publish-a-cve-for-your-awesome-vulnerability-e68a6a5f748f
