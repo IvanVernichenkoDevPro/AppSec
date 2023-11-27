@@ -111,6 +111,7 @@
 ## Pentest reporting
 - https://github.com/Syslifters/sysreptor
 - https://github.com/1modm/petereport
+- Faction engine https://github.com/factionsecurity/faction
 
 ## Offensive sectools
 - Mythic C2 https://github.com/its-a-feature/Mythic
