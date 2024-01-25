@@ -113,8 +113,10 @@
 - https://github.com/1modm/petereport
 - Faction engine https://github.com/factionsecurity/faction
 
-## Offensive sectools
+## Offensive ops
 - Mythic C2 https://github.com/its-a-feature/Mythic
+- Sliver Adversary Emulation https://github.com/BishopFox/sliver
+- Havoc Framework https://github.com/HavocFramework/Havoc
 
 ## Misc
 - How to register and publish CVE: https://infosecwriteups.com/how-to-register-and-publish-a-cve-for-your-awesome-vulnerability-e68a6a5f748f
