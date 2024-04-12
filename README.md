@@ -74,6 +74,7 @@
 ## Mobile security:
 - MobSF https://github.com/MobSF/Mobile-Security-Framework-MobSF
 - frida https://frida.re/docs/home/
+- APKDeepLens https://github.com/d78ui98/APKDeepLens
 - appmon https://github.com/dpnishant/appmon
 - qark, drozer (abandoned) https://github.com/linkedin/qark, https://github.com/WithSecureLabs/drozer
 
